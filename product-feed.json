@@ -1,0 +1,17 @@
+[
+    {
+        
+        "name": "Knit wool sweater with Gucci intarsia",
+        "price": 80000,
+        "modelCode": "761539",
+        "image-url": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1686759375/761539_XKDK4_4492_001_100_0000_Light.jpg",
+        "url": "https://gucci-poc.vercel.app/product/zaino-bambino-con-stampa-animali"
+    },
+    {
+        "name": "GG Marmont matelassé small shoulder bag",
+        "price": 149000,
+        "modeCode": "447632",
+        "image-url": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1680214541/447632_AABZB_6832_001_067_0053_Light.jpg",
+        "url": "https://gucci-poc.vercel.app/product/zaino-bambino-con-stampa-animali" 
+    }
+]
