@@ -13,5 +13,26 @@
         "modelCode": "447632",
         "image-url": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1680214541/447632_AABZB_6832_001_067_0053_Light.jpg",
         "url": "https://gucci-poc.vercel.app/product/zaino-bambino-con-stampa-animali" 
+    },
+    {
+        "name": "Children's animal print backpack",
+        "price": "110000",
+        "modelCode": "433578",
+        "image-url": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1687452304/433578_FACM8_8444_001_085_0000_Light.jpg",
+        "url": "https://gucci-poc.vercel.app/product/zaino-bambino-con-stampa-animali" 
+    },
+    {
+        "name": "Herbarium dinner plate, set of two",
+        "price": "60000",
+        "modelCode": "497376",
+        "image-url": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1689604235/497376_ZAN9N_4632_001_100_0000_Light.jpg",
+        "url": "https://gucci-poc.vercel.app/product/zaino-bambino-con-stampa-animali" 
+    },
+    {
+        "name": "Women's Ace sneaker with Web",
+        "price": "375000",
+        "modelCode": "757943",
+        "image-url": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1686848491/757943_AACAG_9055_001_100_0000_Light.jpg",
+        "url": "https://gucci-poc.vercel.app/product/zaino-bambino-con-stampa-animali" 
     }
 ]
